@@ -31,10 +31,10 @@ Users can register, create, edit, and browse ads with images, categories, and se
 - Customizing Django Admin
 
 ## 📌 Future Plans
-⭐ Add favorites system
-🔎 Improve search with filters (price, category)
-🌐 Build REST API with Django REST Framework
-🗄 Switch to PostgreSQL for production
+- ⭐ Add favorites system
+- 🔎 Improve search with filters (price, category)
+- 🌐 Build REST API with Django REST Framework
+- 🗄 Switch to PostgreSQL for production
 
 ## ⚡ Quick Start
 
