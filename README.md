@@ -24,11 +24,11 @@ Users can register, create, edit, and browse ads with images, categories, and se
 ---
 
 ## 🏆 What I Learned
-Working with Django ORM & migrations
-Organizing project into apps
-Using Django Forms for validation
-Handling static & media files
-Customizing Django Admin
+- Working with Django ORM & migrations
+- Organizing project into apps
+- Using Django Forms for validation
+- Handling static & media files
+- Customizing Django Admin
 
 ## 📌 Future Plans
 ⭐ Add favorites system
